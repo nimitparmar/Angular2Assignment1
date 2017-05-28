@@ -1,0 +1,52 @@
+{
+  "name": "angular2assignment1",
+  "version": "1.0.0",
+  "description": "angular 2 assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimitparmar/Angular2Assignment1.git"
+  },
+  "keywords": [
+    "angular",
+    "2",
+    "commonent"
+  ],
+  "author": "nimit parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimitparmar/Angular2Assignment1/issues"
+  },
+  "homepage": "https://github.com/nimitparmar/Angular2Assignment1#readme",
+  "devDependencies": {
+    "@angular/core": "^4.1.3",
+    "angular-router-loader": "^0.6.0",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^3.1.3",
+    "del-cli": "^1.0.0",
+    "html-loader": "^0.4.5",
+    "raw-loader": "^0.5.1",
+    "typescript": "^2.3.3",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "@angular/common": "^4.1.3",
+    "@angular/compiler": "^4.1.3",
+    "@angular/compiler-cli": "^4.1.3",
+    "@angular/core": "^4.1.3",
+    "@angular/forms": "^4.1.3",
+    "@angular/http": "^4.1.3",
+    "@angular/platform-browser": "^4.1.3",
+    "@angular/platform-browser-dynamic": "^4.1.3",
+    "@angular/platform-server": "^4.1.3",
+    "@angular/router": "^4.1.3",
+    "@angular/upgrade": "^4.1.3",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.4.0",
+    "zone.js": "^0.8.11"
+  }
+}
