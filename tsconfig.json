@@ -2,12 +2,13 @@
     "compilerOptions": {
         "moduleResolution": "node",
         "emitDecoratorMetadata": true,
+        "module": "commonjs",
+        "emitDecoratorMetaData": true,
         "experimentalDecorators": true,
         "target": "es5",
         "lib": [
             "es5",
             "dom"
         ]
-
     }
 }
